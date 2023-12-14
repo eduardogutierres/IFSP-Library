@@ -1,0 +1,17 @@
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\bin\Debug\net6.0\IFSPLibrary.Repository.deps.json
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\bin\Debug\net6.0\IFSPLibrary.Repository.runtimeconfig.json
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\bin\Debug\net6.0\IFSPLibrary.Repository.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\bin\Debug\net6.0\IFSPLibrary.Repository.pdb
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\bin\Debug\net6.0\IFSPLibrary.domain.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\bin\Debug\net6.0\IFSPLibrary.domain.pdb
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\IFSPLibrary.Repository.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\IFSPLibrary.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\IFSPLibrary.Repository.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\IFSPLibrary.Repository.AssemblyInfo.cs
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\IFSPLibrary.Repository.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\IFSPLibrary.Repository.csproj.CopyComplete
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\IFSPLibrary.Repository.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\refint\IFSPLibrary.Repository.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\IFSPLibrary.Repository.pdb
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\IFSPLibrary.Repository.genruntimeconfig.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Repository\obj\Debug\net6.0\ref\IFSPLibrary.Repository.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UMwpyCbjqSq5+0HC34EmtQBXdwmemWBHNQwDGjRC4W8AxoPaG183wct3D1GbxvgAld4PK+WkirTR3pXP9qxLkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduar\\OneDrive - ifsp.edu.br\\6\\POEE6\\Eg\\IFSPLib\\IFSPLibrary.Domain\\IFSPLibrary.domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

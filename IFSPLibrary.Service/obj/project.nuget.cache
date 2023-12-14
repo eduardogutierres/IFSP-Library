@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yt+Km5XFxzfthdMyfC0YtkgIewDwQjMG/5REEyx52rfqPlcReOiFTL9NUhmhO+c19ov5JNveoAsda69RLVhOCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduar\\OneDrive - ifsp.edu.br\\6\\POEE6\\Eg\\IFSPLib\\IFSPLibrary.Service\\IFSPLibrary.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

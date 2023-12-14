@@ -1,0 +1,15 @@
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\bin\Debug\net6.0\IFSPLibrary.Service.deps.json
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\bin\Debug\net6.0\IFSPLibrary.Service.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\bin\Debug\net6.0\IFSPLibrary.Service.pdb
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\bin\Debug\net6.0\IFSPLibrary.domain.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\bin\Debug\net6.0\IFSPLibrary.domain.pdb
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\obj\Debug\net6.0\IFSPLibrary.Service.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\obj\Debug\net6.0\IFSPLibrary.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\obj\Debug\net6.0\IFSPLibrary.Service.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\obj\Debug\net6.0\IFSPLibrary.Service.AssemblyInfo.cs
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\obj\Debug\net6.0\IFSPLibrary.Service.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\obj\Debug\net6.0\IFSPLibrary.Service.csproj.CopyComplete
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\obj\Debug\net6.0\IFSPLibrary.Service.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\obj\Debug\net6.0\refint\IFSPLibrary.Service.dll
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\obj\Debug\net6.0\IFSPLibrary.Service.pdb
+C:\Users\eduar\OneDrive - ifsp.edu.br\6\POEE6\Eg\IFSPLib\IFSPLibrary.Service\obj\Debug\net6.0\ref\IFSPLibrary.Service.dll
